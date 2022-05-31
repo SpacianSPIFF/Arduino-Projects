@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.36875" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/drawable/buttons.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/drawable/buttonsaaaaaaa.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.36875" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.36875" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/layout/content.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/layout/old_content.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/layout/old_layout.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/layout/temp.xml" value="0.3515625" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/mipmap-anydpi-v26/bluetooth_home_automation_icon.xml" value="0.36875" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.36875" />
+        <entry key="..\:/Users/Srikar/Dev/Arduino/Projects/Bluetooth_Home_Automation/BluetoothHomeAutomation/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.36875" />
+        <entry key="..\:/Users/Srikar/Dev/Java/BluetoothHomeAutomation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.36875" />
+        <entry key="..\:/Users/Srikar/Dev/Java/BluetoothHomeAutomation/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Srikar/Dev/Java/BluetoothHomeAutomation/app/src/main/res/layout/content.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
