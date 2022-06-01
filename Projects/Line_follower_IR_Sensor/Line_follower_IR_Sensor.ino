@@ -2,20 +2,24 @@ int ir1;
 int ir2;
 
 void setup() {
+  // IR Sensors
   pinMode(9, INPUT);
   pinMode(10, INPUT);
+
+  // Motor Pins
   for (int i = 2; i <= 8; i+=2){
     pinMode(i, OUTPUT);
   }
+  
   Serial.begin(9600);
 }
 
 void loop() {
   // 1 is Black
   // 0 is White
-  
   ir1 = 1 - digitalRead(9);
   ir2 = 1 - digitalRead(10);
+  
   if (ir1 == 1 && ir2 == 1) {
     CarControl(1, 0, 1, 0); // Go forward
     Serial.println("Forward");
