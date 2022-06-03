@@ -29,11 +29,11 @@ void loop() {
     Serial.println("Forward");
   }
   if (ir_left == 1 && ir_right == 0) { // Turn left
-    CarControl(0, 0, 0, 0, 0, 1, 1, 0);
+    CarControl(1, 0, 0, 1, 0, 1, 1, 0);
     Serial.println("Turn Left");
   }
   if (ir_left == 0 && ir_right == 1) { // Turn right
-    CarControl(0, 1, 1, 0, 0, 0, 0, 0);
+    CarControl(0, 1, 1, 0, 1, 0, 0, 1);
     Serial.println("Turn Right");
   }
   if (ir_left == 0 && ir_right == 0) { // Black square for stop
