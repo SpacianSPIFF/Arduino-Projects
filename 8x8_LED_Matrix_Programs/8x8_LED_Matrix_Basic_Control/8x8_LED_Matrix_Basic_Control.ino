@@ -11,7 +11,7 @@ int DIN = 10;
 int CS =  9;
 int CLK = 8;
 
-LedControl lc = LedControl(DIN, CLK, CS, 0);
+LedControl lc = LedControl(DIN, CLK, CS, 1);
 
 // Facial Expression
 byte smile[8] =   {0x3C, 0x42, 0xA5, 0x81, 0xA5, 0x99, 0x42, 0x3C};
@@ -38,7 +38,7 @@ byte b8[8] = {0x3C, 0x00, 0x00, 0x00, 0x00, 0x18, 0x3C, 0x18};
 
 void setup() {
   lc.shutdown(0, false);
-  lc.setIntensity(0, 1);
+  lc.setIntensity(0, 1);  // Ranges from 0 to 15
   lc.clearDisplay(0);
 }
 

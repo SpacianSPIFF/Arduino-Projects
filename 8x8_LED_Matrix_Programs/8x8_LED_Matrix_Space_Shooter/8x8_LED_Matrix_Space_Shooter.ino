@@ -4,7 +4,7 @@ const int DIN = 10;
 const int CS =  9;
 const int CLK = 8;
 
-LedControl lc = LedControl(DIN, CLK, CS, 0);
+LedControl lc = LedControl(DIN, CLK, CS, 1);
 
 // Over all variables
 bool isGameOver = false;

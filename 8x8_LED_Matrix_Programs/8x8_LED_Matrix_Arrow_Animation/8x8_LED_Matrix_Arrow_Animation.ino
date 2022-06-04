@@ -6,7 +6,7 @@ int CLK = 8;
 
 int delayTime = 54;
 
-LedControl lc = LedControl(DIN, CLK, CS, 0);
+LedControl lc = LedControl(DIN, CLK, CS, 1);
 
 byte arrow_up1[8] = {B00011000, B00111100, B01111110, B11111111, B00011000, B00011000, B00011000, B00011000};
 byte arrow_up2[8] = {B00111100, B01111110, B11111111, B00011000, B00011000, B00011000, B00011000, B00000000};
