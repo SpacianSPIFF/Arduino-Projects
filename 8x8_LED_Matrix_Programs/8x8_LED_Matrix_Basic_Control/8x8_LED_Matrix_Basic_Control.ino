@@ -2,6 +2,7 @@
 
 // For Custom Character Generator: http://jorydotcom.github.io/matrix-emoji
 // LedControl library: https://github.com/wayoda/LedControl
+// LedControl docs: http://wayoda.github.io/LedControl/
 
 // Arduino UNO SPI Pins: 13 -> SCK[Serial Clock](CLK); 12 -> MISO[Master In Slave Out]; 11 -> MOSI[Master Out Slave In](DIN); 10 -> SS[Slave Select]
 
